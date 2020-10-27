@@ -8,7 +8,7 @@ cffi==1.13.2
 chardet==3.0.4
 Click==7.0
 cryptocmd==0.5.4
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 cycler==0.10.0
 defusedxml==0.6.0
