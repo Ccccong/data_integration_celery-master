@@ -45,7 +45,7 @@ pyquery==1.4.1
 pytdx==1.72
 python-dateutil==2.8.1
 pytz==2019.3
-PyYAML==5.1.2
+PyYAML==5.4
 redis==3.3.11
 requests==2.22.0
 setuptools==40.8.0
