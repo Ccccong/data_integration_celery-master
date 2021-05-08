@@ -15,7 +15,7 @@ defusedxml==0.6.0
 DIRestInvoker==0.2.2
 dnspython==1.16.0
 et-xmlfile==1.0.1
-eventlet==0.25.1
+eventlet==0.31.0
 greenlet==0.4.15
 IBATS-Utils==1.2.7
 idna==2.8
