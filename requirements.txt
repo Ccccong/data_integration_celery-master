@@ -36,7 +36,7 @@ numpy==1.17.4
 odfpy==1.4.0
 openpyxl==3.0.2
 pandas==0.25.3
-pip==19.0.3
+pip==21.1
 ply==3.11
 pycparser==2.19
 PyMySQL==0.9.3
