@@ -48,7 +48,7 @@ pytz==2019.3
 PyYAML==5.1.2
 redis==3.3.11
 requests==2.22.0
-setuptools==40.8.0
+setuptools==65.5.1
 simplejson==3.17.0
 six==1.13.0
 soupsieve==1.9.5
